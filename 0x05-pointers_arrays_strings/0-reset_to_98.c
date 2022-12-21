@@ -1,4 +1,5 @@
 #include "main.h"
+#include "main.c"
 
 /**
  * reset_to_98n - take a pointer to an int as parameter and updates
